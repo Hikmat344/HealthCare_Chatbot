@@ -3,3 +3,5 @@ sentence-transformers==2.2.2 # for embedding
 pinecone-client # to use pinecone dtabase to store embedding vectors
 langchain==0.0.225 
 flask #for frontend
+pypdf
+sentence-transformers
